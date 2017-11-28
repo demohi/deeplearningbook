@@ -1,0 +1,2 @@
+# deeplearningbook
+notes
